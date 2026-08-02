@@ -1,50 +1,50 @@
 # Iván Alejandro Mendoza López
 
-## Archivo de Etnohistoria de la Alimentación
+## Archivo de Alimentación, Memoria y Poder
 
-### Memoria · Cultura · Trabajo · Poder
+### Historia · Cultura · Trabajo · Patrimonio
 
 ---
 
-> La alimentación constituye uno de los espacios donde se manifiestan con mayor claridad las relaciones históricas, culturales, económicas, políticas y ambientales que conforman la experiencia humana.
+> La alimentación es uno de los espacios donde se manifiestan con mayor claridad las relaciones históricas, culturales, económicas, políticas y ambientales que conforman la experiencia humana.
 
 ---
 
 ## Presentación
 
-El Archivo de Etnohistoria de la Alimentación es un proyecto independiente dedicado al estudio crítico de los sistemas alimentarios, las culturas alimentarias y las relaciones de poder que atraviesan la producción, circulación y consumo de alimentos.
+Archivo de Alimentación, Memoria y Poder es un proyecto independiente dedicado al estudio crítico de la alimentación como fenómeno histórico, cultural y social.
 
-Desde una perspectiva etnohistórica, este espacio busca documentar las experiencias, memorias, conocimientos y prácticas que frecuentemente permanecen al margen de las narrativas oficiales, prestando especial atención a los trabajadores, comunidades, migraciones y procesos históricos vinculados con la alimentación.
+A través de la etnohistoria, la historia de la alimentación, la antropología y la experiencia directa dentro del sector gastronómico, este espacio busca documentar las relaciones entre alimentación, trabajo, patrimonio, migraciones, memoria y poder.
 
-La alimentación no es entendida únicamente como una necesidad biológica o un fenómeno gastronómico, sino como un campo donde convergen historia, trabajo, identidad, patrimonio, colonialismo, globalización y resistencia cultural.
+La alimentación es entendida aquí no solamente como una necesidad biológica o una práctica culinaria, sino como un fenómeno complejo en el que se expresan las formas de organización social, las relaciones de poder, las dinámicas económicas, los procesos históricos y las distintas maneras en que los pueblos comprenden y habitan el mundo.
 
 ---
 
-## Ejes de investigación
+## Líneas de trabajo
 
-### Etnohistoria de la alimentación
+### Alimentación y sociedad
 
-Estudio de los sistemas alimentarios a través de las experiencias históricas y culturales de los pueblos.
+La alimentación como expresión de las estructuras sociales, económicas y culturales.
 
 ### Memoria y patrimonio alimentario
 
-Procesos de conservación, transmisión y transformación de conocimientos culinarios.
+Procesos de preservación, transformación y transmisión de conocimientos alimentarios.
 
 ### Migraciones y circulación cultural
 
-Movimientos de personas, técnicas, ingredientes y tradiciones alimentarias.
+Movimientos de personas, ingredientes, técnicas y tradiciones culinarias.
 
 ### Trabajo gastronómico
 
-Condiciones laborales, formación profesional, organización del trabajo y experiencias de quienes participan en la industria alimentaria.
+Condiciones laborales, formación profesional, experiencias de los trabajadores y transformaciones del trabajo en la industria alimentaria.
 
-### Colonialidad y alimentación
+### Colonialidad y sistemas alimentarios
 
-Análisis de las relaciones de poder que han configurado históricamente la producción y el consumo de alimentos.
+Relaciones históricas y contemporáneas entre alimentación, poder, explotación y desigualdad.
 
 ### Pizza napolitana y globalización
 
-Investigación sobre la circulación internacional de prácticas, conocimientos y patrimonios alimentarios.
+Historia, patrimonio y circulación internacional de prácticas alimentarias.
 
 ---
 
@@ -52,11 +52,15 @@ Investigación sobre la circulación internacional de prácticas, conocimientos 
 
 ### La odisea de la pizza napolitana en México (1952–2019)
 
-### Archivo fotográfico internacional
+Investigación sobre la llegada, adaptación y desarrollo de la pizza napolitana en México.
 
 ### Observatorio del trabajo gastronómico
 
-### Historia y patrimonio de la alimentación
+Espacio de documentación y análisis sobre las condiciones laborales dentro de la industria gastronómica.
+
+### Archivo fotográfico internacional
+
+Registro visual de experiencias, prácticas y patrimonios alimentarios en México, Estados Unidos, Italia y Alemania.
 
 ---
 
