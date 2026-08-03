@@ -83,3 +83,72 @@ Participante en el Guinness World Record realizado en Sant'Antonio Abate, Nápol
 - Investigaciones
 - Conferencias
 - Consultoría gastronómica
+---
+
+## ¿Qué encontrará aquí?
+
+Este espacio reúne materiales dirigidos a públicos diversos que comparten interés por la alimentación y sus múltiples dimensiones.
+
+### Para investigadores y estudiantes
+
+- Historia de la alimentación
+- Etnohistoria
+- Antropología de la alimentación
+- Patrimonio gastronómico
+- Migraciones y cultura alimentaria
+- Trabajo y sistemas alimentarios
+
+### Para profesionales de la gastronomía
+
+- Reflexiones sobre el oficio gastronómico
+- Historia de técnicas e ingredientes
+- Patrimonio culinario
+- Procesos de formación profesional
+- Condiciones laborales en la industria
+
+### Para emprendedores y empresas
+
+- Consultoría gastronómica
+- Capacitación de personal
+- Desarrollo de conceptos gastronómicos
+- Pizza napolitana
+- Fermentación
+- Cultura organizacional en negocios gastronómicos
+
+### Para el público general
+
+- Ensayos
+- Artículos de divulgación
+- Fotografías
+- Historias alimentarias
+- Patrimonio cultural
+- ---
+
+## Consultoría
+
+Ofrezco asesoría profesional para proyectos gastronómicos, especialmente en áreas relacionadas con:
+
+- Pizza napolitana
+- Fermentación
+- Capacitación de personal
+- Estandarización de procesos
+- Desarrollo de menús
+- Patrimonio gastronómico
+- Investigación aplicada a proyectos alimentarios
+
+Experiencia profesional en México, Estados Unidos, Italia y Alemania.
+---
+
+## Principios
+
+Este proyecto se guía por cinco principios fundamentales:
+
+1. La alimentación es una ventana privilegiada para comprender las sociedades humanas.
+
+2. Las historias de trabajadores, comunidades y grupos históricamente marginados merecen ser documentadas y preservadas.
+
+3. La investigación debe dialogar con la experiencia práctica y con quienes participan directamente en los procesos alimentarios.
+
+4. El patrimonio alimentario es un fenómeno vivo y en constante transformación.
+
+5. La reflexión crítica constituye una herramienta indispensable para comprender las relaciones entre alimentación, cultura, trabajo y poder.
