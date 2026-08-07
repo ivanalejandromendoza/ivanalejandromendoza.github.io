@@ -1,6 +1,4 @@
-# Iván Alejandro Mendoza López
-
-## Archivo de Alimentación, Memoria y Poder
+# Archivo de Alimentación, Memoria y Poder
 
 ### Historia · Cultura · Trabajo · Patrimonio
 
@@ -64,14 +62,31 @@ Registro visual de experiencias, prácticas y patrimonios alimentarios en Méxic
 
 ---
 
-## Sobre el autor
+## Fundador y editor
 
-Etnohistoriador de la alimentación, maestro pizzaiolo y consultor gastronómico.
+Iván Alejandro Mendoza López es etnohistoriador de la alimentación, maestro pizzaiolo y consultor gastronómico.
 
-Experiencia profesional en México, Estados Unidos, Italia y Alemania.
+Su trabajo se centra en las relaciones entre alimentación, memoria, cultura, trabajo y poder, con especial interés en la historia de la alimentación, las migraciones, el patrimonio gastronómico, la cultura alimentaria y las condiciones laborales dentro de la industria gastronómica.
 
-Participante en el Guinness World Record realizado en Sant'Antonio Abate, Nápoles, Italia, en 2026.
+Ha desarrollado experiencia profesional en México, Estados Unidos, Italia y Alemania.
 
+Este proyecto constituye un espacio independiente de documentación, investigación y reflexión crítica abierto al diálogo y a la colaboración con investigadores, profesionales de la gastronomía y personas interesadas en el estudio de la alimentación.
+
+## Colaboraciones
+
+Archivo de Alimentación, Memoria y Poder busca convertirse en un espacio abierto para el intercambio de ideas, investigaciones, testimonios y experiencias relacionadas con la alimentación.
+
+Se recibirán propuestas de colaboración provenientes de investigadores, estudiantes, trabajadores del sector alimentario, productores, restauranteros y cualquier persona interesada en contribuir al análisis y documentación de los fenómenos alimentarios contemporáneos e históricos.
+
+## Misión
+
+Construir un archivo independiente dedicado al estudio de las relaciones entre alimentación, memoria, cultura, trabajo y poder, documentando experiencias, conocimientos y procesos históricos que contribuyan a una comprensión más amplia de los sistemas alimentarios y de las sociedades que los producen.
+
+## Visión
+
+Consolidar un espacio de referencia para investigadores, profesionales de la gastronomía, estudiantes y público general interesado en comprender la alimentación como un fenómeno histórico, cultural, social y político, promoviendo el diálogo entre la investigación académica y la experiencia práctica.
+
+Próximamente se habilitarán mecanismos de colaboración y publicación de contenidos invitados.
 ---
 
 ## Próximamente
