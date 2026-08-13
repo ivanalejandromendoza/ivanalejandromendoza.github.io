@@ -1,5 +1,9 @@
 # Archivo de Alimentación, Memoria y Poder
 
+### Navegación
+
+- [Manifiesto](manifiesto.md)
+
 ### Historia · Cultura · Trabajo · Patrimonio
 
 ---
