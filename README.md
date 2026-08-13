@@ -86,6 +86,18 @@ Construir un archivo independiente dedicado al estudio de las relaciones entre a
 
 Consolidar un espacio de referencia para investigadores, profesionales de la gastronomía, estudiantes y público general interesado en comprender la alimentación como un fenómeno histórico, cultural, social y político, promoviendo el diálogo entre la investigación académica y la experiencia práctica.
 
+## Una posición desde la experiencia
+
+Mi interés por estos temas no surgió únicamente en bibliotecas o espacios académicos. Surgió también en cocinas, mercados, conversaciones y espacios de trabajo donde observé que detrás de cada alimento existen historias que con frecuencia permanecen invisibles.
+
+Desde niño sentí una profunda fascinación por la historia, los pueblos y las distintas formas en que las sociedades humanas han comprendido el mundo. Años después, la gastronomía me llevó a formular nuevas preguntas sobre los alimentos, sus orígenes, sus transformaciones y las personas que participan en su producción cotidiana. El descubrimiento de la etnohistoria permitió articular ambas inquietudes y encontrar un camino para comprender la alimentación como un fenómeno histórico, cultural y social.
+
+Con el tiempo, la investigación y el trabajo dejaron de ser ámbitos separados. Mi trayectoria me ha llevado a trabajar en distintos espacios de la industria gastronómica y a conocer diversas realidades dentro y fuera de México. Esa experiencia me permitió comprender que los alimentos no son únicamente objetos de estudio. Son también el resultado del trabajo humano, de procesos históricos complejos y de relaciones sociales que frecuentemente permanecen ocultas detrás de aquello que consumimos diariamente.
+
+Este proyecto nace también de una inquietud ética. La convicción de que muchas de las personas que sostienen materialmente los sistemas alimentarios rara vez tienen la oportunidad de narrar su propia historia. Cocineros, productores, trabajadores agrícolas, pescadores, migrantes, pequeños comerciantes y comunidades enteras participan en la construcción cotidiana de las culturas alimentarias sin que sus experiencias ocupen un lugar proporcional dentro de los relatos que explican esos mismos procesos.
+
+Por ello, este archivo no pretende únicamente estudiar la alimentación. Aspira también a contribuir a la preservación de memorias, testimonios y conocimientos que puedan servir como fuente para futuras investigaciones y como punto de partida para nuevas conversaciones sobre el mundo que compartimos.
+
 Próximamente se habilitarán mecanismos de colaboración y publicación de contenidos invitados.
 ---
 
@@ -167,3 +179,7 @@ Este proyecto se guía por cinco principios fundamentales:
 4. El patrimonio alimentario es un fenómeno vivo y en constante transformación.
 
 5. La reflexión crítica constituye una herramienta indispensable para comprender las relaciones entre alimentación, cultura, trabajo y poder.
+   
+
+
+
