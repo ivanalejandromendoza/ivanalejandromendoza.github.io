@@ -1,8 +1,12 @@
 # Archivo de Alimentación, Memoria y Poder
 
-### Navegación
+- ## Navegación
 
 - [Manifiesto](manifiesto.md)
+- [Archivo](archivo.md)
+- [Trabajo y Gastronomía](trabajo-gastronomia.md)
+- [Biblioteca Fundamental](biblioteca.md)
+- [Proyecto](proyecto.md)
 
 ### Historia · Cultura · Trabajo · Patrimonio
 
