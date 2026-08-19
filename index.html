@@ -8,7 +8,7 @@
 <style>
 
 body{
-    max-width:1000px;
+    max-width:1100px;
     margin:0 auto;
     padding:40px;
     font-family:Georgia, serif;
@@ -19,19 +19,26 @@ body{
 
 header{
     text-align:center;
-    margin-bottom:60px;
+    margin-bottom:40px;
+}
+
+.hero{
+    width:100%;
+    border-radius:6px;
+    margin-bottom:40px;
+    box-shadow:0 3px 10px rgba(0,0,0,0.15);
 }
 
 h1{
     text-align:center;
-    letter-spacing:3px;
+    letter-spacing:4px;
     line-height:1.2;
     margin-bottom:15px;
 }
 
 .subtitulo{
     text-align:center;
-    font-size:1.1em;
+    font-size:1.15em;
     color:#555;
     margin-bottom:30px;
 }
@@ -56,12 +63,13 @@ nav a:hover{
 }
 
 .destacado{
-    max-width:800px;
+    max-width:850px;
     margin:50px auto;
     padding:25px;
-    border-left:4px solid #888888;
-    background:#f3f1eb;
+    border-left:4px solid #777;
+    background:#f0ede6;
     font-style:italic;
+    font-size:1.05em;
 }
 
 h2{
@@ -72,6 +80,29 @@ h2{
 
 p{
     text-align:justify;
+}
+
+.tarjetas{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+    gap:20px;
+    margin-top:30px;
+}
+
+.tarjeta{
+    background:#f0ede6;
+    padding:20px;
+    border-left:4px solid #777;
+}
+
+.tarjeta h3{
+    margin-top:0;
+}
+
+.proximamente{
+    background:#f0ede6;
+    padding:25px;
+    margin-top:25px;
 }
 
 ul{
@@ -92,6 +123,8 @@ footer{
 </head>
 
 <body>
+
+<img src="portada.png" class="hero" alt="Archivo de Alimentación, Memoria y Poder">
 
 <header>
 
@@ -116,55 +149,54 @@ Estudios críticos sobre alimentación, trabajo, cultura e historia
 </header>
 
 <div class="destacado">
-"La alimentación es uno de los espacios donde se manifiestan con mayor claridad las relaciones históricas, económicas, políticas, culturales y ambientales que conforman la experiencia humana."
+“La alimentación es uno de los espacios donde se manifiestan con mayor claridad las relaciones históricas, económicas, políticas, culturales y ambientales que conforman la experiencia humana.”
 </div>
 
 <h2>¿Qué es este proyecto?</h2>
 
 <p>
-Archivo de Alimentación, Memoria y Poder es un proyecto independiente de investigación, documentación y divulgación dedicado al estudio de la alimentación como espacio donde convergen la historia, la cultura, el trabajo, el patrimonio y las relaciones de poder.
+Archivo de Alimentación, Memoria y Poder es un proyecto independiente de investigación, documentación y divulgación dedicado al estudio de la alimentación como espacio donde convergen historia, cultura, trabajo, patrimonio y relaciones de poder.
 </p>
 
 <p>
-A través de artículos, ensayos, bibliografías, testimonios y materiales documentales, este archivo busca contribuir a la comprensión crítica de los sistemas alimentarios y de las sociedades que los producen.
+A través de ensayos, bibliografías, testimonios y materiales documentales, este archivo busca contribuir a una comprensión crítica de los sistemas alimentarios y de las sociedades que los producen.
 </p>
 
 <h2>Una invitación a leer la alimentación de otra manera</h2>
 
 <p>
-La alimentación es uno de los pocos fenómenos capaces de conectar simultáneamente historia, cultura, economía, trabajo, migración, patrimonio y medio ambiente.
+La alimentación conecta simultáneamente historia, cultura, economía, migración, trabajo, patrimonio y medio ambiente.
 </p>
 
 <p>
-Este archivo reúne investigaciones, ensayos, bibliografías, testimonios y materiales documentales para comprender críticamente las sociedades a través de aquello que producen, consumen y comparten en torno a la comida.
+Lejos de reducir la gastronomía a recetas o técnicas culinarias, este proyecto explora la alimentación como expresión de relaciones sociales, conflictos históricos y formas de habitar el mundo.
 </p>
 
-<p>
-Lejos de reducir la gastronomía a recetas o técnicas culinarias, este proyecto explora la alimentación como una expresión de las relaciones sociales, los conflictos históricos y las formas en que distintos pueblos habitan el mundo.
-</p>
+<h2>Líneas de investigación</h2>
 
-<h2>Idea fundacional</h2>
+<div class="tarjetas">
 
-<p>
-La alimentación constituye uno de los espacios donde se manifiestan con mayor claridad las relaciones históricas, culturales, económicas, políticas y ambientales que conforman la experiencia humana.
-</p>
+<div class="tarjeta">
+<h3>Historia de la alimentación</h3>
+<p>Procesos históricos vinculados a ingredientes, cocinas, técnicas y sistemas alimentarios.</p>
+</div>
 
-<p>
-Estudiar la alimentación es también una forma de comprender quiénes somos, cómo nos relacionamos con otros pueblos y qué tipo de mundo estamos construyendo.
-</p>
+<div class="tarjeta">
+<h3>Trabajo y gastronomía</h3>
+<p>Condiciones laborales, migración, organización del trabajo y experiencias dentro del sector gastronómico.</p>
+</div>
 
-<h2>Líneas de trabajo</h2>
+<div class="tarjeta">
+<h3>Patrimonio y memoria</h3>
+<p>Relaciones entre alimentación, identidad, tradición y construcción de memoria colectiva.</p>
+</div>
 
-<ul>
-<li>Historia de la alimentación.</li>
-<li>Etnohistoria y memoria social.</li>
-<li>Trabajo gastronómico y relaciones laborales.</li>
-<li>Migraciones y circulación de saberes culinarios.</li>
-<li>Patrimonio alimentario.</li>
-<li>Cultura alimentaria mexicana.</li>
-<li>Fermentación y técnicas tradicionales.</li>
-<li>Poder, desigualdad y sistemas alimentarios.</li>
-</ul>
+<div class="tarjeta">
+<h3>Poder y desigualdad</h3>
+<p>Análisis crítico de las relaciones económicas, políticas y sociales que atraviesan la alimentación.</p>
+</div>
+
+</div>
 
 <h2>Autores y referentes</h2>
 
@@ -175,6 +207,21 @@ Este proyecto dialoga con tradiciones intelectuales provenientes de la historia,
 <p>
 Entre los autores que han influido en su construcción se encuentran Karl Marx, Enrique Dussel, Sidney Mintz, Catherine Good Eshelman, José Luis Juárez López, Jorge Veraza, José Enrique Campillo, Alejandro Grimson, Zygmunt Bauman, Anthony Giddens, Ángel Palerm y otros investigadores cuyos trabajos permiten comprender las relaciones entre alimentación, sociedad y poder.
 </p>
+
+<h2>Últimos textos</h2>
+
+<div class="proximamente">
+
+<h3>Próximamente</h3>
+
+<ul>
+<li>La romantización de la explotación en las cocinas profesionales.</li>
+<li>Migrar para cocinar: experiencias de trabajo gastronómico.</li>
+<li>Patrimonio alimentario y globalización.</li>
+<li>Alimentación, memoria y poder en México.</li>
+</ul>
+
+</div>
 
 <h2>Contenido del archivo</h2>
 
