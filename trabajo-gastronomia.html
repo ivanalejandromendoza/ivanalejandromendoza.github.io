@@ -3,10 +3,10 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Trabajo y Gastronomía</title>
+<title>Trabajo y Gastronomía | Archivo de Alimentación, Memoria y Poder</title>
 
 <style>
-
+/* ESTILOS UNIFICADOS */
 body{
     max-width:1000px;
     margin:0 auto;
@@ -20,17 +20,22 @@ body{
 header{
     text-align:center;
     margin-bottom:60px;
+    border-bottom:1px solid #cccccc;
+    padding-bottom:30px;
 }
 
 h1{
     text-align:center;
-    letter-spacing:2px;
+    letter-spacing:3px;
+    font-size:2.2em;
+    margin-bottom:10px;
 }
 
 .subtitulo{
     text-align:center;
     color:#666;
     margin-bottom:30px;
+    letter-spacing:1px;
 }
 
 nav{
@@ -52,6 +57,26 @@ nav a:hover{
     text-decoration:underline;
 }
 
+/* Elementos específicos del ensayo */
+.titulo-ensayo{
+    text-align:center;
+    margin-top:60px;
+    margin-bottom:10px;
+}
+
+.titulo-ensayo h1{
+    font-size:2em;
+    letter-spacing:2px;
+}
+
+.subtitulo-ensayo{
+    text-align:center;
+    color:#666;
+    font-size:1.1em;
+    margin-bottom:40px;
+    letter-spacing:1px;
+}
+
 .ficha-autor{
     text-align:center;
     background:#f3f1eb;
@@ -61,6 +86,11 @@ nav a:hover{
     border-bottom:1px solid #ccc;
 }
 
+.ficha-autor p{
+    margin:0 auto 10px auto;
+    max-width:700px;
+}
+
 .nota{
     background:#fafafa;
     border-left:4px solid #999;
@@ -68,11 +98,22 @@ nav a:hover{
     margin:40px 0;
 }
 
+.nota p{
+    text-align:justify;
+    margin-bottom:0;
+}
+
 .indice{
     background:#f3f1eb;
     padding:25px;
     margin:40px 0;
     border-left:4px solid #888;
+}
+
+.indice h2{
+    margin-top:0;
+    border-bottom:none;
+    padding-bottom:0;
 }
 
 .indice ul{
@@ -97,6 +138,7 @@ h2{
     margin-top:70px;
     border-bottom:1px solid #cccccc;
     padding-bottom:10px;
+    letter-spacing:1px;
 }
 
 h3{
@@ -105,6 +147,7 @@ h3{
 
 p{
     text-align:justify;
+    margin-bottom:20px;
 }
 
 blockquote{
@@ -112,6 +155,8 @@ blockquote{
     margin:30px;
     padding-left:20px;
     border-left:3px solid #999;
+    background:#f3f1eb;
+    padding:20px 20px 20px 30px;
 }
 
 footer{
@@ -120,8 +165,18 @@ footer{
     padding-top:25px;
     text-align:center;
     color:#666;
+    font-size:0.9em;
 }
 
+footer a{
+    color:#666;
+    text-decoration:none;
+    margin:0 8px;
+}
+
+footer a:hover{
+    text-decoration:underline;
+}
 </style>
 
 </head>
@@ -129,32 +184,26 @@ footer{
 <body>
 
 <header>
-
-<h1>
-ARCHIVO DE<br>
-ALIMENTACIÓN, MEMORIA Y PODER
-</h1>
-
-<div class="subtitulo">
-Estudios críticos sobre alimentación, trabajo, cultura e historia
-</div>
-
-<nav>
-<a href="index.html">Inicio</a>
-<a href="manifiesto.html">Manifiesto</a>
-<a href="sobre-el-proyecto.html">Proyecto</a>
-<a href="biblioteca.html">Biblioteca</a>
-<a href="cartografia-intelectual.html">Cartografía</a>
-<a href="trabajo-gastronomia.html">Trabajo y Gastronomía</a>
-</nav>
-
+    <h1>ARCHIVO DE<br>ALIMENTACIÓN, MEMORIA Y PODER</h1>
+    <div class="subtitulo">Investigación · Archivo · Divulgación</div>
 </header>
 
-<h1>
-Trabajo y Gastronomía
-</h1>
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="manifiesto.html">Manifiesto</a>
+    <a href="sobre-el-proyecto.html">Proyecto</a>
+    <a href="archivo.html">Archivo</a>
+    <a href="biblioteca.html">Biblioteca</a>
+    <a href="cartografia-intelectual.html">Cartografía</a>
+    <a href="trabajo-gastronomia.html">Trabajo y Gastronomía</a>
+    <a href="autor.html">Autor</a>
+</nav>
 
-<div class="subtitulo">
+<div class="titulo-ensayo">
+    <h1>Trabajo y Gastronomía</h1>
+</div>
+
+<div class="subtitulo-ensayo">
 Notas para una crítica del trabajo gastronómico contemporáneo
 </div>
 
@@ -170,10 +219,6 @@ Chef · Maestro pizzaiolo · Investigador independiente
 
 <p>
 Archivo de Alimentación, Memoria y Poder
-</p>
-
-<p>
-México · Estados Unidos · Italia · Alemania
 </p>
 
 </div>
@@ -231,8 +276,6 @@ Lejos de presentar estas cuestiones como fenómenos aislados o excepcionales, el
 <p>
 Analizar la gastronomía desde esta perspectiva implica ir más allá de los alimentos y las recetas. Significa utilizar la alimentación como una ventana para comprender el trabajo, la cultura, el poder y las formas de organización social que configuran nuestras vidas cotidianas.
 </p>
-
-<!-- CAPÍTULO 1 -->
 
 <h2 id="cliente">El trabajo que el cliente no ve</h2>
 
@@ -433,7 +476,9 @@ Comprender la alimentación es comprender algo de nosotros mismos.
 <p>
 Y comprendernos a nosotros mismos constituye, tal vez, el primer paso para comenzar a transformarnos.
 </p>
+
 <h2>Continuidades de investigación</h2>
+
 <p>
 Las reflexiones desarrolladas en este ensayo no pretenden cerrar una discusión sino abrir nuevas líneas de investigación. Entre los temas que requieren una exploración más profunda destacan la migración laboral dentro de la gastronomía contemporánea, la formación profesional y la reproducción de jerarquías laborales, la relación entre patrimonio alimentario y trabajo precario, así como los efectos de las plataformas digitales y los nuevos modelos de consumo sobre las condiciones laborales del sector.
 </p>
@@ -441,8 +486,9 @@ Las reflexiones desarrolladas en este ensayo no pretenden cerrar una discusión 
 <p>
 Estos temas forman parte de las investigaciones actualmente desarrolladas dentro de Archivo de Alimentación, Memoria y Poder.
 </p>
+
 <h2>Tradiciones intelectuales en diálogo</h2>
-    
+
 <p>
 Este ensayo dialoga con diversas tradiciones intelectuales provenientes de la historia, la antropología, la sociología, la economía política y la filosofía crítica. Entre los autores que han contribuido a la construcción de estas reflexiones destacan Karl Marx, Enrique Dussel, Sidney Mintz, Jorge Veraza, David Harvey, Immanuel Wallerstein, Silvia Federici, James C. Scott, Catherine Good Eshelman, José Luis Juárez López, Guillermo Bonfil Batalla, Eric Wolf, Ángel Palerm y Alejandro Grimson, entre otros.
 </p>
@@ -454,16 +500,12 @@ Este ensayo dialoga con diversas tradiciones intelectuales provenientes de la hi
 </blockquote>
 
 <footer>
-
-Archivo de Alimentación, Memoria y Poder
-
-<br><br>
-
-Proyecto independiente de investigación sobre alimentación,
-cultura, trabajo, patrimonio e historia.
-
-<br><br>
-
-México · Alemania
-
+    <strong>Archivo de Alimentación, Memoria y Poder</strong>
+    <br><br>
+    Proyecto independiente de investigación sobre alimentación, trabajo, cultura e historia.
+    <br><br>
+    <a href="#">LinkedIn</a> · <a href="mailto:contacto@alimentacionmemoriapoder.org">Correo electrónico</a>
 </footer>
+
+</body>
+</html>
