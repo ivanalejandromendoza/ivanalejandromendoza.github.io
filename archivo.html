@@ -3,10 +3,10 @@
 
 <head>
 <meta charset="UTF-8">
-<title>Archivo de Investigación</title>
+<title>Archivo de Investigación | Archivo de Alimentación, Memoria y Poder</title>
 
 <style>
-
+/* ESTILOS UNIFICADOS */
 body{
     max-width:1000px;
     margin:0 auto;
@@ -20,17 +20,22 @@ body{
 header{
     text-align:center;
     margin-bottom:60px;
+    border-bottom:1px solid #cccccc;
+    padding-bottom:30px;
 }
 
 h1{
     text-align:center;
-    letter-spacing:2px;
+    letter-spacing:3px;
+    font-size:2.2em;
+    margin-bottom:10px;
 }
 
 .subtitulo{
     text-align:center;
     color:#666;
     margin-bottom:30px;
+    letter-spacing:1px;
 }
 
 nav{
@@ -52,6 +57,38 @@ nav a:hover{
     text-decoration:underline;
 }
 
+/* Contenedor específico del contenido */
+.contenido{
+    max-width:850px;
+    margin:0 auto;
+}
+
+.contenido h2{
+    margin-top:70px;
+    border-bottom:1px solid #cccccc;
+    padding-bottom:10px;
+    letter-spacing:1px;
+}
+
+.contenido h3{
+    margin-top:35px;
+    color:#333;
+}
+
+.contenido p{
+    text-align:justify;
+    margin-bottom:20px;
+}
+
+.contenido ul{
+    margin-bottom:20px;
+    padding-left:20px;
+}
+
+.contenido li{
+    margin-bottom:8px;
+}
+
 .introduccion{
     background:#f3f1eb;
     padding:30px;
@@ -59,23 +96,15 @@ nav a:hover{
     border-left:4px solid #888;
 }
 
-h2{
-    margin-top:70px;
-    border-bottom:1px solid #cccccc;
-    padding-bottom:10px;
-}
-
-h3{
-    margin-top:35px;
-}
-
-p{
+.introduccion p{
     text-align:justify;
+    margin-bottom:15px;
 }
 
 .estado{
     color:#666;
     font-style:italic;
+    margin-bottom:20px;
 }
 
 footer{
@@ -84,8 +113,18 @@ footer{
     padding-top:25px;
     text-align:center;
     color:#666;
+    font-size:0.9em;
 }
 
+footer a{
+    color:#666;
+    text-decoration:none;
+    margin:0 8px;
+}
+
+footer a:hover{
+    text-decoration:underline;
+}
 </style>
 
 </head>
@@ -93,30 +132,24 @@ footer{
 <body>
 
 <header>
-
-<h1>
-ARCHIVO DE<br>
-ALIMENTACIÓN, MEMORIA Y PODER
-</h1>
-
-<div class="subtitulo">
-Estudios críticos sobre alimentación, trabajo, cultura e historia
-</div>
-
-<nav>
-<a href="index.html">Inicio</a>
-<a href="manifiesto.html">Manifiesto</a>
-<a href="sobre-el-proyecto.html">Proyecto</a>
-<a href="biblioteca.html">Biblioteca</a>
-<a href="cartografia-intelectual.html">Cartografía</a>
-<a href="trabajo-gastronomia.html">Trabajo y Gastronomía</a>
-<a href="autor.html">Autor</a>
-<a href="archivo.html">Archivo</a>
-</nav>
-
+    <h1>ARCHIVO DE<br>ALIMENTACIÓN, MEMORIA Y PODER</h1>
+    <div class="subtitulo">Investigación · Archivo · Divulgación</div>
 </header>
 
-<h1>Archivo de Investigación</h1>
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="manifiesto.html">Manifiesto</a>
+    <a href="sobre-el-proyecto.html">Proyecto</a>
+    <a href="archivo.html">Archivo</a>
+    <a href="biblioteca.html">Biblioteca</a>
+    <a href="cartografia-intelectual.html">Cartografía</a>
+    <a href="trabajo-gastronomia.html">Trabajo y Gastronomía</a>
+    <a href="autor.html">Autor</a>
+</nav>
+
+<div class="contenido">
+
+<h2>Archivo de Investigación</h2>
 
 <div class="introduccion">
 
@@ -191,19 +224,12 @@ Compilaciones bibliográficas organizadas por temas de investigación.
 </p>
 
 <ul>
-
-<li>Historia de la alimentación.</li>
-
-<li>Etnohistoria.</li>
-
-<li>Trabajo gastronómico.</li>
-
-<li>Patrimonio alimentario.</li>
-
-<li>Fermentación y técnicas tradicionales.</li>
-
-<li>Cultura alimentaria mexicana.</li>
-
+    <li>Historia de la alimentación.</li>
+    <li>Etnohistoria.</li>
+    <li>Trabajo gastronómico.</li>
+    <li>Patrimonio alimentario.</li>
+    <li>Fermentación y técnicas tradicionales.</li>
+    <li>Cultura alimentaria mexicana.</li>
 </ul>
 
 <p class="estado">
@@ -220,16 +246,15 @@ Espacio destinado a entrevistas, conferencias, documentos de trabajo, materiales
 Próximamente.
 </p>
 
+</div>
+
 <footer>
-
-Archivo de Alimentación, Memoria y Poder
-
-<br><br>
-
-Proyecto independiente de investigación sobre alimentación, cultura, trabajo e historia.
-
+    <strong>Archivo de Alimentación, Memoria y Poder</strong>
+    <br><br>
+    Proyecto independiente de investigación sobre alimentación, trabajo, cultura e historia.
+    <br><br>
+    <a href="#">LinkedIn</a> · <a href="mailto:contacto@alimentacionmemoriapoder.org">Correo electrónico</a>
 </footer>
 
 </body>
 </html>
-```
